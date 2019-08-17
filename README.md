@@ -31,13 +31,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 To randomize, click RANDOMIZE.
-- Bulbasaur
-- Treecko
-- Chespin
-- Snivy
-- Rowlet
-- Chikorita
-- Turtwig
+- Squirtle
+- Totodile
+- Mudkip
+- Piplup
+- Oshawott
+- Froakie
+- Popplio
 
 <script>$( "#target" ).click(function() {
   $('ul').randomize();
@@ -75,13 +75,13 @@ Ability: Mega Launcher
 
 Moveset:
 
-- Ice Beam
+-Ice Beam
 
-- Hidden Power Ground
+-Hidden Power Ground
 
-- Water Pulse/Scald
+-Water Pulse/Scald
 
-- Aura Sphere/Dragon Pulse/Dark Pulse
+-Aura Sphere/Dragon Pulse/Dark Pulse
 
 For the last slot it is really just what your team needs most. Also, Water Pulse>Scald because thanks to Mega Launcher (Clawitzers Ability) Water Pulse has more power and a chance to confuse.
 
@@ -90,11 +90,12 @@ For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this
 I'll probably do alot of that kind af pokemon stuff and randomly post movesets and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). (Not related to pokemon)
+### Stuff I Don't Care About
 
-### Jekyll Themes
+**Jekyll Themes**
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyberRyder/randomizer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+**Support or Contact**
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
