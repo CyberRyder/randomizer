@@ -23,7 +23,6 @@ You can use the [editor on GitHub](https://github.com/CyberRyder/randomizer/edit
 
 Hello [here](https://pokemondb.net/news/260/new-sword-shield-trailer-reveals-galarian-forms-and-rivals#news-continue) is a link to Pokemon DB
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### ~~Markdown~~ 
 
@@ -64,6 +63,7 @@ Syntax highlighted code block
 
 ```
 
+This doesn't lead you anywhere:
 [Link](url)
 
 ![Image](https://img.pokemondb.net/artwork/vector/clawitzer.png)
@@ -90,7 +90,24 @@ For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this
 
 I'll probably do alot of that kind af pokemon stuff and randomly post movesets and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). (Not related to pokemon)
+https://img.pokemondb.net/artwork/large/rillaboom.jpg
+
+Rillaboom: The Drummer Pokemon
+
+Ability: Grassy Surge
+
+Item: Leftovers
+
+Moveset:
+
+-Drum Beating/Wood Hammer
+
+-Leech Seed
+
+-Drain Punch
+
+-Earthquake
+
 ### Stuff I Don't Care About
 
 **Jekyll Themes**
@@ -100,3 +117,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 **Support or Contact**
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). (Not related to pokemon)
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
