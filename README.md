@@ -90,23 +90,19 @@ For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this
 
 I'll probably do alot of that kind af pokemon stuff and randomly post movesets and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :)
 
-![image](https://img.pokemondb.net/artwork/vector/rillaboom.jpg)
+Gliscor: The Fang Scorp Pokemon
 
-Rillaboom: The Drummer Pokemon
+Ability: Poison Heal
 
-Ability: Grassy Surge
+Item: Toxic Orb
 
-Item: Leftovers
+-Facade
 
-Moveset:
+-Swords Dance
 
--Drum Beating/Wood Hammer
+-Fling
 
--Leech Seed
-
--Drain Punch
-
--Earthquake
+-Acrobatics
 
 ### Stuff I Don't Care About
 
