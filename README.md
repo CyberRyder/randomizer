@@ -38,6 +38,7 @@ To randomize, click RANDOMIZE.
 - Oshawott
 - Froakie
 - Popplio
+- Sobble
 
 <script>$( "#target" ).click(function() {
   $('ul').randomize();
