@@ -90,6 +90,8 @@ For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this
 
 I'll probably do alot of that kind af pokemon stuff and randomly post movesets and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :)
 
+![image](https://img.pokemondb.net/artwork/large/gliscor.jpg)
+
 Gliscor: The Fang Scorp Pokemon
 
 Ability: Poison Heal
