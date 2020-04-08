@@ -90,7 +90,7 @@ For more stuff on Clawitzer (I just picked it randomly \\\_( ' ' )\_/) See [this
 
 I'll probably do alot of that kind af pokemon stuff and randomly post movesets and teams that I make. So you'll be seeing alot of that Clawitzer kind of stuff. :)
 
-https://img.pokemondb.net/artwork/large/rillaboom.jpg
+![image](https://img.pokemondb.net/artwork/large/rillaboom.jpg)
 
 Rillaboom: The Drummer Pokemon
 
