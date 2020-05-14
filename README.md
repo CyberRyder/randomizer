@@ -106,7 +106,7 @@ Item: Toxic Orb
 
 -Acrobatics
 
-![image](https://img.pokemondb.net/artwork/vector/dubwool.png)
+![image](https://img.pokemondb.net/artwork/large/dubwool.jpg)
 
 Dubwool: The Sheep Pokemon
 
