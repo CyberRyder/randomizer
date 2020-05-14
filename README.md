@@ -70,11 +70,9 @@ This doesn't lead you anywhere:
 
 Clawitzer: The Howitzer Pokemon
 
-Type: Water
-
 Ability: Mega Launcher
 
-Moveset:
+Item: Life Orb
 
 -Ice Beam
 
@@ -112,7 +110,7 @@ Dubwool: The Sheep Pokemon
 
 Ability: Fluffy
 
-Item:
+Item: Leftovers
 
 -Cotton Guard
 
