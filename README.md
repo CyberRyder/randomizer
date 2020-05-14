@@ -106,6 +106,22 @@ Item: Toxic Orb
 
 -Acrobatics
 
+![image](https://img.pokemondb.net/artwork/small/dubwool.jpg)
+
+Dubwool: The Sheep Pokemon
+
+Ability: Fluffy
+
+Item:
+
+-Cotton Guard
+
+-Body Press
+
+-Zen Headbutt
+
+-Facade
+
 ### Stuff I Don't Care About
 
 **Jekyll Themes**
